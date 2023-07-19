@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: home
 title: SEI Flex
+permalink: index.html
 description: Listing of course modules and topics.
-nav_order: 1
 has_toc: false
 ---
 
