@@ -17,8 +17,8 @@ title: SEI Remote Flex
 tagline: Become a developer in 6 months or SEI trying
 description: ''
 author: Paresh Sharma
-baseurl: '/SEIRFX-07-25-2023/curriculum.github.io' # the subpath of your site, e.g. /blog
-url: 'https://pages.git.generalassemb.ly' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/curriculum/' # the subpath of your site, e.g. /blog
+url: 'https://pages.git.generalassemb.ly/seir-flex-07-25-23/curriculum.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
