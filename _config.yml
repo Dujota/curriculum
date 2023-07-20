@@ -22,6 +22,7 @@ url: 'https://pages.git.generalassemb.ly' # the base hostname & protocol for you
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.5.3
 theme: just-the-docs
 color_scheme: light
 search_enabled: true
