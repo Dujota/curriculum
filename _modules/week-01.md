@@ -4,11 +4,11 @@ module: Fundamentals
 ---
 
 July 25
-: [Welcome to SEI](https://docs.google.com/presentation/d/1AdGQTZEWoeYiYvtrOw5m3HoGkxXkaChWotXgxrakRJ8/edit#slide=id.p), [Installfest](https://git.generalassemb.ly/seir-flex-07-25-23/installfest) (finish as homework)
+: [Welcome to SEI](https://docs.google.com/presentation/d/1E72Hr3_k45vmloezNNdfTOcYB7xsXCDd9LKKuHVnoqs/edit#slide=id.p), [Installfest](https://git.generalassemb.ly/seir-flex-07-25-23/installfest) (finish as homework)
   : [Think Like a Programmer, Introduction + Chapter 1](https://git.generalassemb.ly/SEIRFX-1107/think-like-a-programmer){: .label .label-red}
 
 July 26
-: [Intro to the CLI](https://docs.google.com/presentation/d/1E72Hr3_k45vmloezNNdfTOcYB7xsXCDd9LKKuHVnoqs/edit#slide=id.p)
+: [Intro to the CLI](https://git.generalassemb.ly/seir-flex-07-25-23/cli-intro)
   : [HW-1: To Oz](https://git.generalassemb.ly/seir-flex-07-25-23/to-oz){: .label
   .label-red},
   [HW-2: Kitchen Organizer](https://git.generalassemb.ly/seir-flex-07-25-23/kitchen-organizer){: .label
