@@ -17,11 +17,11 @@ July 26
 July 29
 : [Morning](){: .label .label-green}
 : [Intro to Git and GitHub](https://git.generalassemb.ly/seir-flex-07-25-23/git-intro), [Git Workflow](https://git.generalassemb.ly/seir-flex-07-25-23/git-workflow)
-  : [Lab: CSS Mockup](https://git.generalassemb.ly/seirfx-dahlia/student-resources/blob/main/1_front_end_development/week_02/2_thu/student_labs/css-mockup.md){: .label .label-red}
+  : [Lab: Hippy Portfolio](https://git.generalassemb.ly/seir-flex-07-25-23/hippy-portfolio){: .label .label-red}
 
 July 29
 : [Afternoon](){: .label .label-green }
-: [HTML & CSS](https://git.generalassemb.ly/seir-flex-07-25-23/student-resources)
+: [HTML & CSS](https://git.generalassemb.ly/seir-flex-07-25-23/html-and-css)
   : [HW-3: WIndy Bite Portfolio](https://git.generalassemb.ly/seir-flex-07-25-23/hw4-wendy-bite-portfolio){: .label .label-red}
    [HW-4: Haiku](https://git.generalassemb.ly/seir-flex-07-25-23/haiku-HW-3){: .label .label-red}
 
