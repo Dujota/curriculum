@@ -22,6 +22,6 @@ July 29
 July 29
 : [Afternoon](){: .label .label-green }
 : [HTML & CSS](https://git.generalassemb.ly/seir-flex-07-25-23/html-and-css)
-  : [HW-3: WIndy Bite Portfolio](https://git.generalassemb.ly/seir-flex-07-25-23/hw4-wendy-bite-portfolio){: .label .label-red}
+  : [HW-3: WIndy Bite Portfolio](https://git.generalassemb.ly/seir-flex-07-25-23/wendy-bite){: .label .label-red}
    [HW-4: Haiku](https://git.generalassemb.ly/seir-flex-07-25-23/haiku-HW-3){: .label .label-red}
 
