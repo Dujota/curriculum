@@ -12,7 +12,7 @@ Aug 2
 : [JS-Datatypes](https://git.generalassemb.ly/seir-flex-07-25-23/js-data-types), [JS- Control Flow-Conditional](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-conditionals), [JS- Control Flow Loops](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-loops)
   : [HW-5: Data Types](https://git.generalassemb.ly/seir-flex-07-25-23/Data-Types-Practice-HW-5){: .label
   .label-red}
-  [HW-6: Control Flow-Conditional](https://git.generalassemb.ly/SEIRFX-1107/control-flow-practice-HW-6){: .label
+  [HW-6: Control Flow-Conditional](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-practice-HW-6){: .label
   .label-red}
 
 Aug 5

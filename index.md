@@ -17,7 +17,7 @@ SEI is divided into four modules, each running for 5-7 weeks. The four modules
 are:
 
 | Module | Start Date | End Date |
-| [Fundamentals](#0-welcome-intro-to-the-cli) | July 25, 2023 | September 27, 2023 |
+| [Fundamentals](#1-welcome-intro-to-the-cli) | July 25, 2023 | September 27, 2023 |
 | [React](#9-react)| September 28, 2023 | October 31, 2023 |
 | [Node & Express](#15-express) | November 1, 2023 | December 1, 2023 |
 | [Python & Django](#20-sql) | December 2, 2023 | January 10, 2023 |
