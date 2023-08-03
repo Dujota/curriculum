@@ -10,7 +10,7 @@ July 25
 July 26
 : [Intro to the CLI](https://git.generalassemb.ly/seir-flex-07-25-23/cli-intro)
   : [HW-1: To Oz](https://git.generalassemb.ly/seir-flex-07-25-23/to-oz){: .label
-  .label-red},
+  .label-red}
   [HW-2: Kitchen Organizer](https://git.generalassemb.ly/seir-flex-07-25-23/kitchen-organizer){: .label
   .label-red}
 
