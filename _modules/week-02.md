@@ -15,13 +15,11 @@ Aug 2
 
 Aug 5
 : [Morning](){: .label .label-green}
-: [JS- Control Flow-Conditional](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-conditionals), [JS- Control Flow Loops](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-loops)
+: [JS- Control Flow-Conditional](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-conditionals)
   : [Lab: JS Functions](https://git.generalassemb.ly/seir-flex-07-25-23/js-functions-exercises){: .label .label-red}
 
 Aug 5
 : [Afternoon](){: .label .label-green }
-: [Intro to Functions](https://git.generalassemb.ly/seir-flex-07-25-23/basic-functions), [Functions Scop And Hoisting](https://git.generalassemb.ly/seir-flex-07-25-23/scope-and-hoisting)
-  : [HW-6: JS-Conditionals](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-practice-HW-6){: .label
-  .label-red}
-  [HW-7: Functions Practice](https://git.generalassemb.ly/seir-flex-07-25-23/js-conditionals-practice-HW-7){: .label .label-red}
+: [JS- Control Flow-Conditional Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/control-flow-conditionals)
+  : [Homework Postponed To Next Week](){: .label .label-red}
 
