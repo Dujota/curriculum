@@ -11,17 +11,15 @@ Aug 8
 
 
 Aug 9
-: [Functions Scop And Hoisting Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/scope-and-hoisting)
-  : [Lab - Minion Callbacks](https://git.generalassemb.ly/seir-flex-07-25-23/callback-array-methods-lab){: .label .label-red}
+: [Functions Scop And Hoisting Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/scope-and-hoisting), [Array Methods](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-methods)
+  : [Lab - Arrays & Iteration](https://git.generalassemb.ly/seir-flex-07-25-23/arrays-and-iteration-lab){: .label .label-red}
 
 Aug 12
 : [Morning](){: .label .label-green}
-: [Array Methods](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-methods)
-  : [Lab - Arrays & Iteration](https://git.generalassemb.ly/seir-flex-07-25-23/arrays-and-iteration-lab){: .label .label-red}
-
+: [Array Methods Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/arrays-pt2)
 
 Aug 12
 : [Afternoon](){: .label .label-green}
-: [Array Methods Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-methods)
+: [Lab - Minion Callbacks](https://git.generalassemb.ly/seir-flex-07-25-23/callback-array-methods-lab){: .label .label-red}
   : [HW-9: Arrays](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-practice-HW-9){: .label
   .label-red}
