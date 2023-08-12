@@ -17,10 +17,10 @@ Aug 9
 Aug 12
 : [Morning](){: .label .label-green}
 : [Array Methods](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-methods)
-  : [Lab - Minion Callbacks](https://git.generalassemb.ly/seir-flex-07-25-23/callback-array-methods-lab){: .label .label-red}
+  : [HW-9: Arrays Methods](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-practice-HW-9){: .label
+  .label-red}
 
 Aug 12
 : [Afternoon](){: .label .label-green}
 : [Array Methods Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/arrays-pt2)
-  : [HW-9: Arrays Methods](https://git.generalassemb.ly/seir-flex-07-25-23/js-array-practice-HW-9){: .label
-  .label-red}
+  : [HW-10 - Minion Callbacks](https://git.generalassemb.ly/seir-flex-07-25-23/callback-array-methods-HW-10){: .label .label-red}
