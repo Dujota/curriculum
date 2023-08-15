@@ -13,6 +13,7 @@ Aug 16
 Aug 19
 : [Morning](){: .label .label-green}
 : [JS-Object Oriented Programming](https://git.generalassemb.ly/seir-flex-07-25-23/javascript-oop)
+  : [Lab - JS Geometry](https://git.generalassemb.ly/seir-flex-07-25-23/js-geometry){: .label .label-red}
 
 Aug 19
 : [Afternoon](){: .label .label-green}
