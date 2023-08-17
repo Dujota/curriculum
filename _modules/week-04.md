@@ -8,7 +8,7 @@ Aug 15
 
 Aug 16
 : [Lab - Objects](https://git.generalassemb.ly/seir-flex-07-25-23/Objectception){: .label .label-red} [Lab - Electronic Store](https://git.generalassemb.ly/seir-flex-07-25-23/Electronic_Store){: .label .label-red}
-  : [HW-11: Objects](https://git.generalassemb.ly/seir-flex-07-25-23/js-objects-practice-HW-11){: .label .label-red}
+  : [HW-11: JS Calculator](https://git.generalassemb.ly/seir-flex-07-25-23/js-calculator-HW-11){: .label .label-red}
 
 Aug 19
 : [Morning](){: .label .label-green}
