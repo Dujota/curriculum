@@ -10,7 +10,7 @@ Aug 29
 
 Aug 30
 : [API & AjAX](https://git.generalassemb.ly/seir-flex-07-25-23/APIs-Ajax)
-  : [HW-12: Cats API](https://git.generalassemb.ly/seir-flex-07-25-23/CatsApi){: .label .label-red}
+  : [HW-15: Cats API](https://git.generalassemb.ly/seir-flex-07-25-23/CatsApi){: .label .label-red}
 
 
 

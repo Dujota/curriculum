@@ -10,7 +10,7 @@ Aug 22
 Aug 23
 : [Buildng A Modal](https://git.generalassemb.ly/seir-flex-07-25-23/modals_intro)
 : [Lab - JS Slideshow](https://git.generalassemb.ly/seir-flex-07-25-23/js-dom-slideshow){: .label .label-red}
-  : [HW-15 - JS Debugging Errors](https://git.generalassemb.ly/seir-flex-07-25-23/js-debugging-errors){: .label .label-red}
+  : [HW-13 - JS Debugging Errors](https://git.generalassemb.ly/seir-flex-07-25-23/js-debugging-errors){: .label .label-red}
 
 
 Aug 26
