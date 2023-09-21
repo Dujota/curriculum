@@ -17,5 +17,5 @@ Sep 30
 
 Sep 30
 : [Afternoon](){: .label .label-green}
-: [Lab - Mongoose - Intergalatic Bounty Hunters](https://git.generalassemb.ly/seir-flex-07-25-23/intro-to-mongo-mongoose){: .label .label-red}
+: [Lab - Mongoose - Intergalatic Bounty Hunters](https://git.generalassemb.ly/seir-flex-07-25-23/intergalactic-bounty-hunters){: .label .label-red}
   : [HW-17: Mongo Burgers](https://git.generalassemb.ly/seir-flex-07-25-23/mongo-burgers){: .label .label-red}
