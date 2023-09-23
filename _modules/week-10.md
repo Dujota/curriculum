@@ -8,7 +8,7 @@ Sep 26
 
 Sep 27
 : [Express Router Lab](https://git.generalassemb.ly/seir-flex-07-25-23/Express_Routes_Lab){: .label .label-red}
-: [Mongo DB - Installation](https://git.generalassemb.ly/seir-flex-07-25-23/seir-11-29/blob/main/work/w04/d1/04-express-intro-lab.md){: .label .label-red}
+: [Mongo DB - Installation](https://git.generalassemb.ly/seir-flex-07-25-23/intro-to-mongo-mongoose/blob/master/intro-to-mongo.md){: .label .label-red}
   : [HW-16: Emergency Compliment](https://git.generalassemb.ly/seir-flex-07-25-23/emergency_compliment){: .label .label-red}
 
 Sep 30
