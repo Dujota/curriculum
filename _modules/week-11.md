@@ -3,10 +3,10 @@ title: 11. Express + MVC
 module: Node & Express
 ---
 
-Oct 2
+Oct 3
 : [Express - MVC](https://git.generalassemb.ly/seir-flex-07-25-23/express-mongoose)
 
-Oct 3
+Oct 4
 : [Express - MVC Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/express-mongoose)
 
 Oct 7
