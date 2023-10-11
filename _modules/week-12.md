@@ -1,11 +1,12 @@
 ---
-title: 12. EJS + Project Proposal
+title: 12. EJS + Project-2 Proposal
 module: Node & Express
 ---
 
 Oct 10
-: [Express - API Giff Lab](https://git.generalassemb.ly/seir-flex-07-25-23/express-api-lab){: .label .label-red}
-  : [Express - API Checkpoint Lab](https://git.generalassemb.ly/seir-flex-07-25-23/checkpoint-express){: .label .label-red}
+: [Express - API Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/express-apis-json)
+  : [Express - API Giff Lab](https://git.generalassemb.ly/seir-flex-07-25-23/express-api-lab){: .label .label-red}
+: [Express - API Checkpoint Lab](https://git.generalassemb.ly/seir-flex-07-25-23/checkpoint-express){: .label .label-red}
 
 Oct 11
 : [EJS - Basics](https://git.generalassemb.ly/seir-flex-07-25-23/ejs_basics)
