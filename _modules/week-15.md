@@ -8,3 +8,4 @@ Oct 31
 
 Nov 1
 : [Presentations](){: .label .label-green}
+: [Intro to React](){: .label .label-green}
