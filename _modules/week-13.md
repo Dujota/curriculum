@@ -12,8 +12,10 @@ Oct 18
 
 Oct 21
 : [Morning](){: .label .label-green}
-  : [Office Hours 11 AM to 1 PM EST](){: .label .label-red}
+: [Bonus Lesson - OAuth](){: .label .label-green}
+  : [10:30 AM to 12:00 PM EST](){: .label .label-green}
+: [Office Hours 12 PM to 2 PM EST](){: .label .label-red}
 
 Oct 21
 : [Afternoon](){: .label .label-green}
-  : [Office Hours 3 PM to 5 PM EST](){: .label .label-red}
+  : [Office Hours 4 PM to 6 PM EST](){: .label .label-red}

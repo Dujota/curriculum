@@ -12,8 +12,8 @@ Oct 25
 
 Oct 28
 : [Morning](){: .label .label-green}
-  : [Office Hours 11 AM to 1 PM EST](){: .label .label-red}
+  : [Office Hours 12 PM to 2 PM EST](){: .label .label-red}
 
 Oct 28
 : [Afternoon](){: .label .label-green}
-  : [Office Hours 3 PM to 5 PM EST](){: .label .label-red}
+  : [Office Hours 4 PM to 6 PM EST](){: .label .label-red}
