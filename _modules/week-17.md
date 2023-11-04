@@ -19,6 +19,6 @@ Nov 18
 : [Bonus Lesson - TBD](){: .label .label-red}
 
 Nov 18
-: [Morning](){: .label .label-green}
+: [Afternoon](){: .label .label-green}
 : [Walk through of Prroject 3](){: .label .label-red}
   : [Project 3 Proposal](){: .label .label-green}
