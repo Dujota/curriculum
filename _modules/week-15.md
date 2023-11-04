@@ -16,8 +16,10 @@ Nov 1
 Nov 4
 : [Morning](){: .label .label-green}
 : [Intro to React Cont...](https://git.generalassemb.ly/seir-flex-07-25-23/react-intro)
+  : [Recording + Lesson Practice](){: .label .label-green}
 
 Nov 4
 : [Afternoon](){: .label .label-green}
 : [React State And Props](https://git.generalassemb.ly/seir-flex-07-25-23/react-state-and-props)
-  : [Recording + Lesson Practice](){: .label .label-green}
+
+  : [React Tutorial PR Required](https://legacy.reactjs.org/tutorial/tutorial.html){: .label .label-green}
