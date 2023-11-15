@@ -20,5 +20,5 @@ Nov 18
 
 Nov 18
 : [Afternoon](){: .label .label-green}
-: [Walk through of Prroject 3](){: .label .label-red}
+: [Walk through of Prroject 3](https://git.generalassemb.ly/seir-flex-07-25-23/project-3){: .label .label-red}
   : [Project 3 Proposal](){: .label .label-green}
