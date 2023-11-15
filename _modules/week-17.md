@@ -10,7 +10,7 @@ Nov 14
 
 Nov 15
 : [React - Baseball](https://git.generalassemb.ly/seir-flex-07-25-23/react-baseball)
-  : [HW-23: React Audobon](https://git.generalassemb.ly/seir-flex-07-25-23/react-audobon){: .label .label-red}
+  : [HW-23: React Audobon](https://git.generalassemb.ly/seir-flex-07-25-23/audubon-website){: .label .label-red}
 
 
 
