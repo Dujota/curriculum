@@ -22,7 +22,6 @@ url: 'https://dujota.github.io/curriculum' # the base hostname & protocol for yo
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-remote_theme: just-the-docs
 theme: just-the-docs
 color_scheme: light
 search_enabled: true
